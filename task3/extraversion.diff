@@ -1,0 +1,13 @@
+diff --git a/Makefile b/Makefile
+index b841fb3..b4861d8 100644
+--- a/Makefile
++++ b/Makefile
+@@ -1,7 +1,7 @@
+ VERSION = 4
+ PATCHLEVEL = 11
+ SUBLEVEL = 0
+-EXTRAVERSION = -rc2
++EXTRAVERSION = -rc2-eudyptula
+ NAME = Fearless Coyote
+ 
+ # *DOCUMENTATION*
